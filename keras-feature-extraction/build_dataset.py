@@ -1,3 +1,4 @@
+# Source Code contributed by Adrian Rosebrock from https://www.pyimagesearch.com/2019/05/27/keras-feature-extraction-on-large-datasets-with-deep-learning/
 # USAGE
 # python build_dataset.py
 
